@@ -1,1 +1,1 @@
-VISIBLE "Hello World!"
+VISIBLE "Hello, World!"
